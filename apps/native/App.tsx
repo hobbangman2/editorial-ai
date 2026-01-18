@@ -8,7 +8,7 @@ export default function App() {
   };
 
   return (
-    <View style={{ flex: 1, paddingTop: 50 }}>
+    <View style={{ flex: 1, paddingTop: 50, backgroundColor: '#f9f9f9' }}>
       <DictationWorkspace
         title={mockEditorial.title}
         content={mockEditorial.content}
