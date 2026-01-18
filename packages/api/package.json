@@ -1,0 +1,11 @@
+{
+    "name": "@editorial-ai/api",
+    "version": "0.1.0",
+    "main": "index.ts",
+    "dependencies": {
+        "zod": "*"
+    },
+    "devDependencies": {
+        "tsx": "^4.21.0"
+    }
+}
